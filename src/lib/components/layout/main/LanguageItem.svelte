@@ -24,6 +24,7 @@
             <option value="en"> English </option>
             <option value="zh-tw"> 中文(繁体) </option>
             <option value="zh-cn"> 中文(简体) </option>
+            <option value="es"> Español </option>
         </select>
     {/snippet}
 </UserItem>
